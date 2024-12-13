@@ -33,3 +33,8 @@ O modo noturno possui o funcionamento somente do led amarelo, o qual pisca a cad
 <sup>Fonte: Material produzido pelos autores (2024)</sup>
 </div>
 
+## Debounce
+O debounce ocorre por um ruído causado na leitura do botão. Para isso, foi implementado o debounce via software no código do protótipo.
+
+## Requisição HTTP
+A cada vez que alguém aperta o botão 3 vezes, uma requisição do método GET é enviada a um site.
