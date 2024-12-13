@@ -24,3 +24,12 @@ O modo diurno possui o funcionamento normal do semáforo, onde os leds verde, am
 <img src="assets/modo_diurno_vermelho.png" width="100%">
 <sup>Fonte: Material produzido pelos autores (2024)</sup>
 </div>
+
+### Modo noturno
+O modo noturno possui o funcionamento somente do led amarelo, o qual pisca a cada 1s.
+<div align="center">
+<sub>Figura 4 - Led vermelho piscando</sub>
+<img src="assets/modo_noturno.png" width="100%">
+<sup>Fonte: Material produzido pelos autores (2024)</sup>
+</div>
+
